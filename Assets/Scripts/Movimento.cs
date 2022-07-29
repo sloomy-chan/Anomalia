@@ -162,7 +162,7 @@ public class Movimento : MonoBehaviour
         
 
         //Controla os tiros
-        if (Input.GetKeyDown(KeyCode.Mouse0) && dado.diceValue != 4 && dado.diceValue != 11 && paused == false && vida > 0)
+        if (Input.GetKeyDown(KeyCode.Mouse0) && dado.diceValue != 4 && dado.diceValue != 10 && paused == false && vida > 0)
         {
 
             Instantiate(prefabProjetil, balaCoord);

@@ -1,0 +1,139 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.0f1 (61a549675243) revision 6399305'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 7  (6.1.0) 64bit' Language: 'pt' Physical Memory: 5589 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2021.1.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/CLAITON/Documents/Projetos do Unity/GMTK 2022/Anomalia
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56143
+Successfully changed project path to: C:/Users/CLAITON/Documents/Projetos do Unity/GMTK 2022/Anomalia
+C:/Users/CLAITON/Documents/Projetos do Unity/GMTK 2022/Anomalia
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 189.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.0f1 (61a549675243)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/CLAITON/Documents/Projetos do Unity/GMTK 2022/Anomalia/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+d3d11: CreateDXGIFactory2(...) not found, fallbacking to CreateDXGIFactory1(...).
+d3d11: QueryInterface(IDXGIFactory5) failed (80004002).
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     1248 MB
+    Driver:   10.18.10.5069
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2021.1.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2021.1.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2021.1.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56100
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2021.1.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002207 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 195.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.252 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005513 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 196.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.160 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.83 seconds
+Refreshing native plugins compatible for Editor in 1.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3384 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.0 MB.
+System memory in use after: 200.1 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3842.
+Total: 19.765352 ms (FindLiveObjects: 0.753907 ms CreateObjectMapping: 0.527692 ms MarkObjects: 18.254974 ms  DeleteObjects: 0.224932 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/DiceRoll.cs
+  artifactKey: Guid(6c14cc0a0f8c86d498e93f3394441311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DiceRoll.cs using Guid(6c14cc0a0f8c86d498e93f3394441311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70b26d2d7a9d40d6300b01faa337b487') in 0.198926 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 7.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.2 MB.
+System memory in use after: 133.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3842.
+Total: 29.580677 ms (FindLiveObjects: 0.791538 ms CreateObjectMapping: 0.525554 ms MarkObjects: 28.040365 ms  DeleteObjects: 0.219373 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.082767 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.584 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.0 MB.
+System memory in use after: 200.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3846.
+Total: 5.035737 ms (FindLiveObjects: 0.499041 ms CreateObjectMapping: 0.430193 ms MarkObjects: 3.948709 ms  DeleteObjects: 0.154801 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007924 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.020 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.1 MB.
+System memory in use after: 200.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3850.
+Total: 14.512809 ms (FindLiveObjects: 0.603809 ms CreateObjectMapping: 0.375884 ms MarkObjects: 13.217099 ms  DeleteObjects: 0.313451 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 574.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.5 MB.
+System memory in use after: 133.6 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3850.
+Total: 5.438989 ms (FindLiveObjects: 0.484929 ms CreateObjectMapping: 0.427627 ms MarkObjects: 4.357948 ms  DeleteObjects: 0.166347 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
